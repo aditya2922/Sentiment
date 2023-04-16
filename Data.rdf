@@ -1,0 +1,2014 @@
+<?xml version="1.0"?>
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:bibo="http://purl.org/ontology/biblio/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:dcterms="http://purl.org/dc/terms/"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+>
+
+<bibo:Article rdf:about="https://doi.org/10/gq9tdm">
+
+    <dc:title>Automated Drone Detection Using YOLOv4</dc:title>
+    <dc:date>2021</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Drones</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>5</bibo:volume>
+    <bibo:doi>10/gq9tdm</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Subroto Singha"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Burchan Aydin"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10/gg9hwf">
+
+    <dc:title>Machine Learning&#45;based Drone Detection and Classification: State&#45;of&#45;the&#45;art in Research</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>IEEE Access</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>7</bibo:volume>
+    <bibo:doi>10/gg9hwf</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Bilal Taha"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Abdulhadi Shoufan"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10/gpkr6j">
+
+    <dc:title>Real&#45;time and Accurate Drone Detection in a Video with a Static Background</dc:title>
+    <dc:date>2020</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Sensors</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>20</bibo:volume>
+    <bibo:doi>10/gpkr6j</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ulzhalgas Seidaliyeva"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Daryn Akhmetov"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Lyazzat Ilipbayeva"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Eric T. Matson"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Design and Analysis of Cost&#45;efficient Sensor Deployment for Tracking Small Uas with Agent&#45;based Modeling</dc:title>
+    <dc:date>2016</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Sensors (Basel&#44; Switzerland)</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>16</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Sangmi Shin"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Seongha Park"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yongho Kim"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Eric T. Matson"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>A Comparison of Convolutional Object Detectors for Real&#45;time Drone Tracking Using a Ptz Camera</dc:title>
+    <dc:date>2017</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>2017 17&#7511;&#688; International Conference on Control&#44; Automation and Systems (ICCAS)</dc:title></bibo:Journal></dcterms:isPartOf>
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ji&#45;Heon Park"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dae Hoe Kim"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Youngsup Shin"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Sang&#45;ho Lee"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Development of an Experimental Prototype Multi&#45;modal Netted Sensor Fence for Homeland Defense and Border Integrity</dc:title>
+    <dc:date>2007</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>2007 IEEE Conference on Technologies for Homeland Security</dc:title></bibo:Journal></dcterms:isPartOf>
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Weiqun Shi"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="G. Arabadjis"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Brett Bishop"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Peter Hill"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Rich Plasse"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Objects Detection of UAV for Anti&#45;uav Based on Yolov4</dc:title>
+    <dc:date>2020</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>2020 IEEE 2&#8319;&#7496; International Conference on Civil Aviation Safety and Information Technology (ICCASIT</dc:title></bibo:Journal></dcterms:isPartOf>
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Qingbang Shi"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Jun Li"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Millimeter Wave Radar for Perimeter Surveillance and Detection of Mavs (micro Aerial Vehicles)</dc:title>
+    <dc:date>2015</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>2015 16&#7511;&#688; International Radar Symposium (IRS)</dc:title></bibo:Journal></dcterms:isPartOf>
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Michael Caris"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Winfried Johannes"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Stephan Stanko"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Nils Pohl"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="https://doi.org/10/gq547x">
+
+    <dc:title>Combination of Radar and Audio Sensors for Identification of Rotor&#45;type Unmanned Aerial Vehicles (UAVs)</dc:title>
+    <dc:date>2015</dc:date>
+    <bibo:doi>10/gq547x</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Seongha Park"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Sangmi Shin"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yongho Kim"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Eric T. Matson"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Kyuhwan Lee"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Joseph C. Slater"/></bibo:contributor>
+    <bibo:position>6</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Matthew Scherreik"/></bibo:contributor>
+    <bibo:position>7</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Monica Sam"/></bibo:contributor>
+    <bibo:position>8</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="John C. Gallagher"/></bibo:contributor>
+    <bibo:position>9</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Paul J. Kolodzy"/></bibo:contributor>
+    <bibo:position>10</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Benjamin R. Fox"/></bibo:contributor>
+    <bibo:position>11</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Michael Hopmeier"/></bibo:contributor>
+    <bibo:position>12</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/gnn3vn">
+
+    <dc:title>Micro&#45;UAV Detection and Classification from RF Fingerprints Using Machine Learning Techniques</dc:title>
+    <dc:date>2019</dc:date>
+    <bibo:doi>10/gnn3vn</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Martins Ezuma"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Fatih Erden"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Chethan Kumar Anjinappa"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ozgur Ozdemir"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ismail Guvenc"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="https://doi.org/10/gn4rk2">
+
+    <dc:title>Deep Learning on Multi Sensor Data for Counter UAV Applications&#8212;a Systematic Review</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Sensors</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>19</bibo:volume>
+    <bibo:doi>10/gn4rk2</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Stamatios Samaras"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Eleni Diamantidou"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dimitrios Ataloglou"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Nikos Sakellariou"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Anastasios Vafeiadis"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Vasilis Magoulianitis"/></bibo:contributor>
+    <bibo:position>6</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Antonios Lalas"/></bibo:contributor>
+    <bibo:position>7</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Anastasios Dimou"/></bibo:contributor>
+    <bibo:position>8</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dimitrios Zarpalas"/></bibo:contributor>
+    <bibo:position>9</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Konstantinos Votis"/></bibo:contributor>
+    <bibo:position>10</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Petros Daras"/></bibo:contributor>
+    <bibo:position>11</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dimitrios Tzovaras"/></bibo:contributor>
+    <bibo:position>12</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="https://doi.org/10/grggcn">
+
+    <dc:title>The MIT IAP Radar Course: Build a Small Radar System Capable of Sensing Range&#44; Doppler&#44; and Synthetic Aperture (SAR) Imaging</dc:title>
+    <dc:date>2012</dc:date>
+    <bibo:doi>10/grggcn</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="G. L. Charvat"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="A. J. Fenn"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="B. T. Perry"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/gq549h">
+
+    <dc:title>Drone Detection Based on an Audio&#45;assisted Camera Array</dc:title>
+    <dc:date>2017</dc:date>
+    <bibo:doi>10/gq549h</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Hao Liu"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Zhiqiang Wei"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yitong Chen"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Jie Pan"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Le Lin"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yunfang Ren"/></bibo:contributor>
+    <bibo:position>6</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/gq5wmk">
+
+    <dc:title>Spatio&#45;temporal Semantic Segmentation for Drone Detection</dc:title>
+    <dc:date>2019</dc:date>
+    <bibo:doi>10/gq5wmk</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Celine Craye"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Salem Ardjoune"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/grggck">
+
+    <dc:title>Object Detection of UAV for Anti&#45;UAV Based on Improved YOLO V3</dc:title>
+    <dc:date>2019</dc:date>
+    <bibo:doi>10/grggck</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yuanyuan Hu"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Xinjian Wu"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Guangdi Zheng"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Xiaofei Liu"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/ghpgbd">
+
+    <dc:title>Understanding of a Convolutional Neural Network</dc:title>
+    <dc:date>2017</dc:date>
+    <bibo:doi>10/ghpgbd</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Saad Albawi"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Tareq Abed Mohammed"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Saad Al&#45;Zawi"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/gq5wpx">
+
+    <dc:title>Using Deep Networks for Drone Detection</dc:title>
+    <dc:date>2017</dc:date>
+    <bibo:doi>10/gq5wpx</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Cemal Aker"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Sinan Kalkan"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/gq9tdj">
+
+    <dc:title>Drone Detection and Classification Using Deep Learning</dc:title>
+    <dc:date>2020</dc:date>
+    <bibo:doi>10/gq9tdj</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dinesh Kumar Behera"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Arockia Bazil Raj"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="">
+
+    <dc:title>Detection of Loaded and Unloaded Uav Using Deep Neural Network</dc:title>
+    <dc:date>2020</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Seidaliyeva&#44; Ulzhalgas"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Alduraibi&#44; Manal"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ilipbayeva&#44; Lyazzat"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Almagambetov&#44; Akhan"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="">
+
+    <dc:title>Convolutional Neural Network&#45;based Real&#45;time Object Detection and Tracking for Parrot Ar Drone 2</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>IEEE access</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>7</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Rohan&#44; Ali"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Rabah&#44; Mohammed"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Kim&#44; Sung&#45;Ho"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Extraction of Doppler Signature of Micro&#45;to&#45;macro Rotations/motions Using Cw Radar Assisted Measurement System</dc:title>
+    <dc:date>2020</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>IET&#45;Science&#44; Measurement &#x0026; Technology</dc:title></bibo:Journal></dcterms:isPartOf>
+
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Raj&#44; A Arockia Bazil"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Kumawat&#44; Harish C"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="others"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="https://doi.org/10/gpt5nt">
+
+    <dc:title>Yolov3: An Incremental Improvement</dc:title>
+    <dc:date>2018</dc:date>
+    <bibo:doi>10/gpt5nt</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Redmon&#44; Joseph"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Farhadi&#44; Ali"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="">
+
+    <dc:title>Mask R&#45;cnn</dc:title>
+    <dc:date>2017</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="He&#44; Kaiming"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Gkioxari&#44; Georgia"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Doll&#225;r&#44; Piotr"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Girshick&#44; Ross"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="">
+
+    <dc:title>You Only Look Once: Unified&#44; Real&#45;time Object Detection</dc:title>
+    <dc:date>2016</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Redmon&#44; Joseph"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Divvala&#44; Santosh"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Girshick&#44; Ross"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Farhadi&#44; Ali"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="">
+
+    <dc:title>Yolo9000: Better&#44; Faster&#44; Stronger</dc:title>
+    <dc:date>2017</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Redmon&#44; Joseph"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Farhadi&#44; Ali"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/grb4gx">
+
+    <dc:title>An Object Detection System Based on Yolo in Traffic Scene</dc:title>
+    <dc:date>2017</dc:date>
+    <bibo:doi>10/grb4gx</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Tao&#44; Jing"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wang&#44; Hongbo"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Zhang&#44; Xinyu"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Li&#44; Xiaoyu"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yang&#44; Huawei"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="https://doi.org/10/gnrvhf">
+
+    <dc:title>In&#45;yolo: Real&#45;time Detection of Outdoor High Voltage Insulators Using Uav Imaging</dc:title>
+    <dc:date>2020</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>IEEE Transactions on Power Delivery</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>35</bibo:volume>
+    <bibo:doi>10/gnrvhf</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Sadykova&#44; Diana"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Pernebayeva&#44; Damira"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Bagheri&#44; Mehdi"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="James&#44; Alex"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="https://doi.org/10/grgmkj">
+
+    <dc:title>Detection of Airplanes on the Ground Using Yolo Neural Network</dc:title>
+    <dc:date>2018</dc:date>
+    <bibo:doi>10/grgmkj</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Kharchenko&#44; Volodymyr"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Chyrka&#44; Iurii"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="https://doi.org/10/gc7rmb">
+
+    <dc:title>Faster R&#45;cnn: Towards Real&#45;time Object Detection with Region Proposal Networks</dc:title>
+    <dc:date>2017</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>IEEE Transactions on Pattern Analysis and Machine Intelligence</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>39</bibo:volume>
+    <bibo:doi>10/gc7rmb</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ren&#44; Shaoqing"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="He&#44; Kaiming"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Girshick&#44; Ross"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Sun&#44; Jian"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Yolov4: Optimal Speed and Accuracy of Object Detection</dc:title>
+    <dc:date>2020</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>CoRR</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>abs/2004.10934</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Alexey Bochkovskiy"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Chien&#45;Yao Wang"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Hong&#45;Yuan Mark Liao"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="https://doi.org/10/gq9tdk">
+
+    <dc:title>Drone Detection and Identification System Using Artificial Intelligence</dc:title>
+    <dc:date>2018</dc:date>
+    <bibo:doi>10/gq9tdk</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dongkyu Lee"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Woong Gyu La"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Hwangnam Kim"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="https://doi.org/10/ggwjnk">
+
+    <dc:title>RF&#45;based Drone Detection and Identification Using Deep Learning Approaches: An Initiative Towards a Large Open Source Drone Database</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>Future Generation Computer Systems</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>100</bibo:volume>
+    <bibo:doi>10/ggwjnk</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Mohammad F. Al&#45;Sa&#39;d"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Abdulla Al&#45;Ali"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Amr Mohamed"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Tamer Khattab"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Aiman Erbad"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="https://doi.org/10/gc7rmc">
+
+    <dc:title>Fast R&#45;CNN</dc:title>
+    <dc:date>2015</dc:date>
+    <bibo:doi>10/gc7rmc</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ross Girshick"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10.48550/ARXIV.2107.08430">
+
+    <dc:title>YOLOX: Exceeding YOLO Series in 2021</dc:title>
+    <dc:date>2021</dc:date>
+    <bibo:doi>10.48550/ARXIV.2107.08430</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Zheng Ge"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Songtao Liu"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Feng Wang"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Zeming Li"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Jian Sun"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/gps892">
+
+    <dc:title>Pp&#45;yoloe: An Evolved Version of Yolo</dc:title>
+    <dc:date>2022</dc:date>
+    <bibo:doi>10/gps892</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Xu&#44; Shangliang"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wang&#44; Xinxin"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Lv&#44; Wenyu"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Chang&#44; Qinyao"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Cui&#44; Cheng"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Deng&#44; Kaipeng"/></bibo:contributor>
+    <bibo:position>6</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wang&#44; Guanzhong"/></bibo:contributor>
+    <bibo:position>7</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dang&#44; Qingqing"/></bibo:contributor>
+    <bibo:position>8</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wei&#44; Shengyu"/></bibo:contributor>
+    <bibo:position>9</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Du&#44; Yuning"/></bibo:contributor>
+    <bibo:position>10</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Lai&#44; Baohua"/></bibo:contributor>
+    <bibo:position>11</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/grgmkk">
+
+    <dc:title>You Only Learn One Representation: Unified Network for Multiple Tasks</dc:title>
+    <dc:date>2021</dc:date>
+    <bibo:doi>10/grgmkk</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wang&#44; Chien&#45;Yao"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yeh&#44; I&#45;Hau"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Liao&#44; Hong&#45;Yuan Mark"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="">
+
+    <dc:title>Releases &#8901; Ultralytics/yolov5 &#8212; Github.com</dc:title>
+
+
+
+
+
+</bibo:Document>
+<bibo:Document rdf:about="https://doi.org/10/grgmkm">
+
+    <dc:title>Designing Network Design Strategies through Gradient Path Analysis</dc:title>
+    <dc:date>2022</dc:date>
+    <bibo:doi>10/grgmkm</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wang&#44; Chien&#45;Yao"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Liao&#44; Hong&#45;Yuan Mark"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Yeh&#44; I&#45;Hau"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="">
+
+    <dc:title>Defense &#x0026;&#35;x2013; Precision Acoustic Detection &#x0026;&#35;x2013; Squarehead Technology &#8212; Sqhead.com</dc:title>
+
+
+
+
+
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="">
+
+    <dc:title>Deep Learning&#45;based Strategies for the Detection and Tracking of Drones Using Several Cameras</dc:title>
+    <dc:date>2019</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>IPSJ Transactions on Computer Vision and Applications</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>11</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Unlu&#44; Eren"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Zenou&#44; Emmanuel"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Riviere&#44; Nicolas"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dupouy&#44; Paul&#45;Edouard"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="">
+
+    <dc:title>Support Vector Machines: Theory and Applications</dc:title>
+    <dc:date>2005</dc:date>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wang&#44; Lipo"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="">
+
+    <dc:title>SSD: Single Shot Multibox Detector</dc:title>
+    <dc:date>2015</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>CoRR</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>abs/1512.02325</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Wei Liu"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dragomir Anguelov"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Dumitru Erhan"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Christian Szegedy"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Scott E. Reed"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Cheng&#45;Yang Fu"/></bibo:contributor>
+    <bibo:position>6</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Alexander C. Berg"/></bibo:contributor>
+    <bibo:position>7</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10/f85f7r">
+
+    <dc:title>Accelerating Very Deep Convolutional Networks for Classification and Detection</dc:title>
+    <dc:date>2016</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>IEEE Transactions on Pattern Analysis and Machine Intelligence</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>38</bibo:volume>
+    <bibo:doi>10/f85f7r</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Zhang&#44; Xiangyu"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Zou&#44; Jianhua"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="He&#44; Kaiming"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Sun&#44; Jian"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="https://doi.org/10/grgmkn">
+
+    <dc:title>Design of 2d&#45;wh/ts Ocdma Pon Onu Receiver with Flc Technique</dc:title>
+    <dc:date>2019</dc:date>
+    <bibo:doi>10/grgmkn</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Prasad&#44; Lakshmi"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Raj&#44; A A Bazil"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+<bibo:Article rdf:about="">
+
+    <dc:title>Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation</dc:title>
+    <dc:date>2013</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>CoRR</dc:title></bibo:Journal></dcterms:isPartOf>
+    <bibo:volume>abs/1311.2524</bibo:volume>
+
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Ross B. Girshick"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Jeff Donahue"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Trevor Darrell"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Jitendra Malik"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Article rdf:about="https://doi.org/10/grggcj">
+
+    <dc:title>YOLOv7: Trainable bag&#45;of&#45;freebies sets new state&#45;of&#45;the&#45;art for real&#45;time object detectors</dc:title>
+    <dc:date>2022</dc:date>
+    <dcterms:isPartOf><bibo:Journal><dc:title>arXiv preprint arXiv:2207.02696</dc:title></bibo:Journal></dcterms:isPartOf>
+
+    <bibo:doi>10/grggcj</bibo:doi>
+
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Chien&#45;Yao Wang"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Alexey Bochkovskiy"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Hong&#45;Yuan Mark Liao"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Article>
+<bibo:Document rdf:about="https://doi.org/10.1117/12.2278212">
+
+    <dc:title>Multimodal UAV detection: study of various intrusion scenarios</dc:title>
+    <dc:date>2017</dc:date>
+    <bibo:doi>10.1117/12.2278212</bibo:doi>
+
+
+   <bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Franck Kloeppel"/></bibo:contributor>
+    <bibo:position>1</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Alex Shoykhetbrod"/></bibo:contributor>
+    <bibo:position>2</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Thomas Geibig"/></bibo:contributor>
+    <bibo:position>3</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Winfried Johannes"/></bibo:contributor>
+    <bibo:position>4</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Oussama Rassy"/></bibo:contributor>
+    <bibo:position>5</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Frank Christnacher"/></bibo:contributor>
+    <bibo:position>6</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Sebastien Hengy"/></bibo:contributor>
+    <bibo:position>7</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Martin Laurenzis"/></bibo:contributor>
+    <bibo:position>8</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="Alexander Hommes"/></bibo:contributor>
+    <bibo:position>9</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+<bibo:contribution>
+  <bibo:Contribution>
+    <bibo:role rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+    <bibo:contributor><foaf:Person foaf:name="St&#233;phane Schertzer"/></bibo:contributor>
+    <bibo:position>10</bibo:position>
+  </bibo:Contribution>
+</bibo:contribution>
+
+
+
+</bibo:Document>
+</rdf:RDF>

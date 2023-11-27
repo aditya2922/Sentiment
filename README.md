@@ -27,7 +27,7 @@ To get started with the sentiment analysis project, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/sentiment-analysis.git
+    git clone https://github.com/aditya2922/sentiment-analysis.git
     cd sentiment-analysis
     ```
 
